@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Alumni+Sans+Collegiate+One&family=Roboto&family=Ubuntu&family=Varela+Round&family=Young+Serif&display=swap');
+
+*{
+    margin: 0;
+    padding: 7px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+}
+
+.container{
+    padding:  10px;
+}
+
+.text-center{
+    text-align: center;
+}
+
+.bg-red{
+    background: red;
+}
+
+.mx-auto{
+    margin: auto;
+}
+
+.mw-20{
+    max-width: 100%;
+}
+
+.flex{
+    display: flex;
+}
+
+.flex-col{
+    flex-direction: column;
+
+}
+
+.items-center{
+    align-items: center;
+}
+
+
+.row{
+    margin: -4px 0px;
+}
+
+.row input{
+    font-size: 20px;
+    font-weight: bold;
+    margin: 0;
+    padding: 5px 21px;
+    border: 2px solid black;
+    border-radius: 5px;
+}
